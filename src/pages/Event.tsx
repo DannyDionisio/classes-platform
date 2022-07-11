@@ -12,8 +12,6 @@ export const Event = () => {
         <Video />
         <Sidebar />
       </main>
-
-      <Lesson />
     </div>
   );
 };
